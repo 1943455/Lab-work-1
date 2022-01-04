@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\WindowsFormsApp323232\bin\Debug\WindowsFormsApp323232.exe.config
+C:\Users\hp\source\repos\WindowsFormsApp323232\bin\Debug\WindowsFormsApp323232.exe
+C:\Users\hp\source\repos\WindowsFormsApp323232\bin\Debug\WindowsFormsApp323232.pdb
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form1.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form2.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form3.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form4.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form5.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form6.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Form7.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.Properties.Resources.resources
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.exe
+C:\Users\hp\source\repos\WindowsFormsApp323232\obj\Debug\WindowsFormsApp323232.pdb
